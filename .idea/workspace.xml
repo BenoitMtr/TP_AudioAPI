@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a99d65f-5148-4d29-8f82-995af68db01e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jYNFBInhUVBMDb7nW9tjxqTvpe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BENOIT\Documents\M2 INTENSE\Technologies Web\TP1\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a99d65f-5148-4d29-8f82-995af68db01e" name="Default Changelist" comment="" />
+      <created>1603976958706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603976958706</updated>
+      <workItem from="1603976959772" duration="6435000" />
+      <workItem from="1604069838088" duration="95000" />
+      <workItem from="1604170055300" duration="3150000" />
+      <workItem from="1604240026189" duration="6528000" />
+      <workItem from="1604391495835" duration="17000" />
+      <workItem from="1604412516796" duration="7815000" />
+      <workItem from="1605275906822" duration="15947000" />
+      <workItem from="1605541146963" duration="2204000" />
+      <workItem from="1605544511180" duration="8093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="231" key="run.anything.popup" timestamp="1605289332845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="231" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605289332845" />
+    <state x="1103" y="225" key="search.everywhere.popup" timestamp="1605291146224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605291146224" />
+  </component>
+</project>
